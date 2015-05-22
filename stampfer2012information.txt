@@ -1,0 +1,8 @@
+@inproceedings{stampfer2012information,
+  title={Information driven sensor placement for robust active object recognition based on multiple views},
+  author={Stampfer, Dennis and Lutz, Matthias and Schlegel, Christian},
+  booktitle={Technologies for Practical Robot Applications (TePRA), 2012 IEEE International Conference on},
+  pages={133--138},
+  year={2012},
+  organization={IEEE}
+}

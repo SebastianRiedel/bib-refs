@@ -1,0 +1,8 @@
+@inproceedings{nyga2014pr2,
+  title={PR2 looking at things—Ensemble learning for unstructured information processing with Markov logic networks},
+  author={Nyga, Daniel and Balint-Benczedi, Ferenc and Beetz, Michael},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={3916--3923},
+  year={2014},
+  organization={IEEE}
+}

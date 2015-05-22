@@ -1,0 +1,8 @@
+@incollection{detry2011continuous,
+  title={Continuous surface-point distributions for 3D object pose estimation and recognition},
+  author={Detry, Renaud and Piater, Justus},
+  booktitle={Computer Vision--ACCV 2010},
+  pages={572--585},
+  year={2011},
+  publisher={Springer}
+}

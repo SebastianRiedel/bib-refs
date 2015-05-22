@@ -1,0 +1,7 @@
+@inproceedings{gao2011active,
+  title={Active classification based on value of classifier},
+  author={Gao, Tianshi and Koller, Daphne},
+  booktitle={Advances in Neural Information Processing Systems},
+  pages={1062--1070},
+  year={2011}
+}

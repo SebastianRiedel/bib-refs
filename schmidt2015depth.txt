@@ -1,0 +1,6 @@
+@inproceedings{schmidt2015depth,
+  title={Depth-Based Tracking with Physical Constraints for Robot Manipulation},
+  author={Schmidt, Tanner and Hertkorn, Katharina and Newcombe, Richard and Marton, Zoltan and Suppa, Michael and Fox, Dieter},
+  booktitle={IEEE International Conference on Robotics and Automation},
+  year={2015}
+}

@@ -1,0 +1,10 @@
+@article{bo2014learning,
+  title={Learning hierarchical sparse features for RGB-(D) object recognition},
+  author={Bo, Liefeng and Ren, Xiaofeng and Fox, Dieter},
+  journal={The International Journal of Robotics Research},
+  volume={33},
+  number={4},
+  pages={581--599},
+  year={2014},
+  publisher={SAGE Publications}
+}

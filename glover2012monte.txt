@@ -1,0 +1,8 @@
+@inproceedings{glover2012monte,
+  title={Monte Carlo pose estimation with quaternion kernels and the bingham distribution},
+  author={Glover, Jared and Bradski, Gary and Rusu, Radu Bogdan},
+  booktitle={Robotics: science and systems},
+  volume={7},
+  pages={97},
+  year={2012}
+}

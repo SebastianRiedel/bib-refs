@@ -1,0 +1,8 @@
+@incollection{gupta2014learning,
+  title={Learning rich features from RGB-D images for object detection and segmentation},
+  author={Gupta, Saurabh and Girshick, Ross and Arbel{\'a}ez, Pablo and Malik, Jitendra},
+  booktitle={Computer Vision--ECCV 2014},
+  pages={345--360},
+  year={2014},
+  publisher={Springer}
+}
