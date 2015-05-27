@@ -1,0 +1,6 @@
+@inproceedings{leitner2012towards,
+  title={Towards spatial perception: Learning to locate objects from vision},
+  author={Leitner, J{\"u}rgen and Harding, Simon and Frank, Mikhail and F{\"o}rster, Alexander and Schmidhuber, J{\"u}rgen},
+  booktitle={Postgraduate Conference on Robotics and Development of Cognition (RobotDoC)},
+  year={2012}
+}

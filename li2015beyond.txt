@@ -1,0 +1,7 @@
+@inproceedings{li2015beyond,
+  title={Beyond Spatial Pooling: Fine-Grained Representation Learning in Multiple Domains},
+  author={Li, Chi and Reiter, Austin and Hager, Gregory D},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={4913--4922},
+  year={2015}
+}
