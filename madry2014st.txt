@@ -1,0 +1,8 @@
+@inproceedings{madry2014st,
+  title={St-hmp: Unsupervised spatio-temporal feature learning for tactile data},
+  author={Madry, Marianna and Bo, Liefeng and Kragic, Danica and Fox, Dieter},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={2262--2269},
+  year={2014},
+  organization={IEEE}
+}
