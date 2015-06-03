@@ -1,4 +1,4 @@
-@article{ILSVRC15,
+@article{russakovsky2015imagenet,
 Author = {Olga Russakovsky and Jia Deng and Hao Su and Jonathan Krause and Sanjeev Satheesh and Sean Ma and Zhiheng Huang and Andrej Karpathy and Aditya Khosla and Michael Bernstein and Alexander C. Berg and Li Fei-Fei},
 Title = {{ImageNet Large Scale Visual Recognition Challenge}},
 Year = {2015},
