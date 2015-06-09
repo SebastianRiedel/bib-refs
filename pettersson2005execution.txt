@@ -1,0 +1,10 @@
+@article{pettersson2005execution,
+  title={Execution monitoring in robotics: A survey},
+  author={Pettersson, Ola},
+  journal={Robotics and Autonomous Systems},
+  volume={53},
+  number={2},
+  pages={73--88},
+  year={2005},
+  publisher={Elsevier}
+}
