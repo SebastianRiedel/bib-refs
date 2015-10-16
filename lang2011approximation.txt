@@ -1,0 +1,7 @@
+@MastersThesis{lang2011approximation,
+    author     =     {Muriel Lang},
+    title     =     {Approximation of Probability Density Functions on the Euclidean Group Parametrized by Dual Quaternions},
+    school     =     {Ludwig-Maximilians-Universität München},
+    address     =     {Munich, Germany},
+    year     =     {2011},
+    }
