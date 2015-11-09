@@ -1,0 +1,8 @@
+@inproceedings{evers2015bearing,
+  title={Bearing-only acoustic tracking of moving speakers for robot audition},
+  author={Evers, Christine and Moore, Alastair H and Naylor, Patrick A and Sheaffer, Jonathan and Rafaely, Boaz},
+  booktitle={Digital Signal Processing (DSP), 2015 IEEE International Conference on},
+  pages={1206--1210},
+  year={2015},
+  organization={IEEE}
+}

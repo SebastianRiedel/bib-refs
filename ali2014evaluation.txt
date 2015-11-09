@@ -1,0 +1,8 @@
+@inproceedings{ali2014evaluation,
+  title={Evaluation of feature selection and model training strategies for object category recognition},
+  author={Ali, Hamza and Marton, Zoltan-Csaba},
+  booktitle={Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on},
+  pages={5036--5042},
+  year={2014},
+  organization={IEEE}
+}
