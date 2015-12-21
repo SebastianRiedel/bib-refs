@@ -1,0 +1,8 @@
+@inproceedings{ulrich2009cad,
+  title={CAD-based recognition of 3D objects in monocular images.},
+  author={Ulrich, Markus and Wiedemann, Christian and Steger, Carsten},
+  booktitle={ICRA},
+  volume={9},
+  pages={1191--1198},
+  year={2009}
+}
