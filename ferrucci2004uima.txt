@@ -1,0 +1,10 @@
+@article{ferrucci2004uima,
+  title={UIMA: an architectural approach to unstructured information processing in the corporate research environment},
+  author={Ferrucci, David and Lally, Adam},
+  journal={Natural Language Engineering},
+  volume={10},
+  number={3-4},
+  pages={327--348},
+  year={2004},
+  publisher={Cambridge Univ Press}
+}
