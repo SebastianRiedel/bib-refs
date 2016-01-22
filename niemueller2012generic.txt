@@ -1,0 +1,8 @@
+@inproceedings{niemueller2012generic,
+  title={A generic robot database and its application in fault analysis and performance evaluation},
+  author={Niemueller, Tim and Lakemeyer, Gerhard and Srinivasa, Siddhartha S},
+  booktitle={Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on},
+  pages={364--369},
+  year={2012},
+  organization={IEEE}
+}

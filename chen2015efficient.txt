@@ -1,0 +1,8 @@
+@inproceedings{chen2015efficient,
+  title={Efficient movement representation by embedding Dynamic Movement Primitives in deep autoencoders},
+  author={Chen, Nutan and Bayer, Justin and Urban, Sebastian and van der Smagt, Patrick},
+  booktitle={Humanoid Robots (Humanoids), 2015 IEEE-RAS 15th International Conference on},
+  pages={434--440},
+  year={2015},
+  organization={IEEE}
+}
