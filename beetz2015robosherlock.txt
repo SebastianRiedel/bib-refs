@@ -2,5 +2,6 @@
   title={RoboSherlock: Unstructured Information Processing for Robot Perception},
   author={Beetz, Michael and B{\'a}lint-Bencz{\'e}di, Ferenc and Blodow, Nico and Nyga, Daniel and Wiedemeyer, Thiemo and Marton, Zolt{\'a}n-Csaba},
   booktitle={IEEE International Conference on Robotics and Automation (ICRA), Seattle, Washington, USA},
-  year={2015}
+  year={2015},
+  note={Best Service Robotics Paper Award at ICRA 2015}
 }
