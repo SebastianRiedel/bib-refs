@@ -1,4 +1,4 @@
-@misc{fiannaca2015benchmarking,
+@techreport{fiannaca2015benchmarking,
   title={Benchmarking of Relational and NoSQL Databases to Determine Constraints for Querying Robot Execution Logs},
   author={Fiannaca, Alexander J and Huang, Justin},
   year={2015},
