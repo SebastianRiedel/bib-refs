@@ -1,0 +1,8 @@
+@inproceedings{leidner2014object,
+  title={Object-centered hybrid reasoning for whole-body mobile manipulation},
+  author={Leidner, Daniel and Dietrich, Andre and Schmidt, Florian and Borst, Christopher and Albu-Schaffer, Alin},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={1828--1835},
+  year={2014},
+  organization={IEEE}
+}
