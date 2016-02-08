@@ -1,0 +1,6 @@
+@article{sung2016robobarista,
+  title={Robobarista: Learning to Manipulate Novel Objects via Deep Multimodal Embedding},
+  author={Sung, Jaeyong and Jin, Seok Hyun and Lenz, Ian and Saxena, Ashutosh},
+  journal={arXiv preprint arXiv:1601.02705},
+  year={2016}
+}

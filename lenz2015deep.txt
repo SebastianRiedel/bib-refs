@@ -1,0 +1,10 @@
+@article{lenz2015deep,
+  title={Deep learning for detecting robotic grasps},
+  author={Lenz, Ian and Lee, Honglak and Saxena, Ashutosh},
+  journal={The International Journal of Robotics Research},
+  volume={34},
+  number={4-5},
+  pages={705--724},
+  year={2015},
+  publisher={SAGE Publications}
+}

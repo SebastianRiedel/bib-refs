@@ -1,0 +1,6 @@
+@techreport{yu2014introduction,
+  title={An introduction to computational networks and the computational network toolkit},
+  author={Yu, Dong and Eversole, Adam and Seltzer, Mike and Yao, Kaisheng and Huang, Zhiheng and Guenter, Brian and Kuchaiev, Oleksii and Zhang, Yu and Seide, Frank and Wang, Huaming and others},
+  year={2014},
+  institution={Tech. Rep. MSR, Microsoft Research, 2014, http://codebox/cntk}
+}

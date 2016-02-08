@@ -1,0 +1,8 @@
+@inproceedings{hornung2014model,
+  title={Model-free robot anomaly detection},
+  author={Hornung, Rachel and Urbanek, Holger and Klodmann, Julian and Osendorfer, Christian and Van Der Smagt, Patrick},
+  booktitle={Intelligent Robots and Systems (IROS 2014), 2014 IEEE/RSJ International Conference on},
+  pages={3676--3683},
+  year={2014},
+  organization={IEEE}
+}

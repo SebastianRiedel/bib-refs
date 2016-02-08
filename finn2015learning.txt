@@ -1,0 +1,6 @@
+@article{finn2015learning,
+  title={Learning Visual Feature Spaces for Robotic Manipulation with Deep Spatial Autoencoders},
+  author={Finn, Chelsea and Tan, Xin Yu and Duan, Yan and Darrell, Trevor and Levine, Sergey and Abbeel, Pieter},
+  journal={arXiv preprint arXiv:1509.06113},
+  year={2015}
+}

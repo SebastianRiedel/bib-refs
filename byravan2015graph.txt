@@ -1,0 +1,6 @@
+@inproceedings{byravan2015graph,
+  title={Graph-based inverse optimal control for robot manipulation},
+  author={Byravan, Arunkumar and Monfort, Mathew and Ziebart, Brian and Boots, Byron and Fox, Dieter},
+  booktitle={Proceedings of the International Joint Conference on Artificial Intelligence},
+  year={2015}
+}

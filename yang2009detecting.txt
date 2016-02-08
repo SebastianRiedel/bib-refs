@@ -1,0 +1,6 @@
+@inproceedings{yang2009detecting,
+  title={Detecting human actions in surveillance videos},
+  author={Yang, Ming and Ji, Shuiwang and Xu, Wei and Wang, Jinjun and Lv, Fengjun and Yu, Kai and Gong, Yihong and Dikmen, Mert and Lin, Dennis J and Huang, Thomas S},
+  booktitle={TREC Video Retrieval Evaluation Workshop},
+  year={2009}
+}

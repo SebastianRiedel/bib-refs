@@ -1,0 +1,7 @@
+@inproceedings{muller2005off,
+  title={Off-road obstacle avoidance through end-to-end learning},
+  author={Muller, Urs and Ben, Jan and Cosatto, Eric and Flepp, Beat and Cun, Yann L},
+  booktitle={Advances in neural information processing systems},
+  pages={739--746},
+  year={2005}
+}
