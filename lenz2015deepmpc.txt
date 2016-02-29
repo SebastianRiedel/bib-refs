@@ -1,0 +1,6 @@
+@inproceedings{lenz2015deepmpc,
+  title={Deepmpc: Learning deep latent features for model predictive control},
+  author={Lenz, Ian and Knepper, Ross and Saxena, Ashutosh},
+  booktitle={Robotics Science and Systems (RSS)},
+  year={2015}
+}

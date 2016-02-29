@@ -1,5 +1,5 @@
 @inproceedings{calli2015ycb,
-  title={The YCB object and Model set: Towards common benchmarks for manipulation research},
+  title={The {YCB} object and Model set: Towards common benchmarks for manipulation research},
   author={Calli, Berk and Singh, Arjun and Walsman, Aaron and Srinivasa, Siddhartha and Abbeel, Pieter and Dollar, Aaron M},
   booktitle={Advanced Robotics (ICAR), 2015 International Conference on},
   pages={510--517},
