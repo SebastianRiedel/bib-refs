@@ -1,0 +1,8 @@
+@inproceedings{reinecke2014experimental,
+  title={Experimental comparison of slip detection strategies by tactile sensing with the BioTac{\textregistered} on the DLR hand arm system},
+  author={Reinecke, Jens and Dietrich, Andre and Schmidt, Florian and Chalon, Maxime},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={2742--2748},
+  year={2014},
+  organization={IEEE}
+}

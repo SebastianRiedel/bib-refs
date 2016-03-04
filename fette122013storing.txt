@@ -1,0 +1,7 @@
+@article{fette122013storing,
+  title={Storing UIMA CASes in a relational database},
+  author={Fette12, Georg and Toepfer, Martin and Puppe, Frank},
+  journal={UIMA workshop at International Conference of the German Society for Computational Linguistics and Language Technology},
+  pages={10},
+  year={2013}
+}

@@ -1,0 +1,8 @@
+@inproceedings{di2013bayesian,
+  title={Bayesian time-series models for continuous fault detection and recognition in industrial robotic tasks},
+  author={Di Lello, Enrico and Klotzbucher, Markus and De Laet, Tinne and Bruyninckx, Herman},
+  booktitle={Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International Conference on},
+  pages={5827--5833},
+  year={2013},
+  organization={IEEE}
+}

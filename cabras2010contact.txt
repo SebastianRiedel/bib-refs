@@ -1,0 +1,10 @@
+@article{cabras2010contact,
+  title={Contact-state classification in human-demonstrated robot compliant motion tasks using the boosting algorithm},
+  author={Cabras, Stefano and Castellanos, Mar{\'\i}a Eugenia and Staffetti, Ernesto},
+  journal={Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE Transactions on},
+  volume={40},
+  number={5},
+  pages={1372--1386},
+  year={2010},
+  publisher={IEEE}
+}
