@@ -1,0 +1,8 @@
+@inproceedings{kumar2014real,
+  title={Real-time behaviour synthesis for dynamic hand-manipulation},
+  author={Kumar, Vipin and Tassa, Yuval and Erez, Tom and Todorov, Emo},
+  booktitle={Robotics and Automation (ICRA), 2014 IEEE International Conference on},
+  pages={6808--6815},
+  year={2014},
+  organization={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{levine2013guided,
+  title={Guided policy search},
+  author={Levine, Sergey and Koltun, Vladlen},
+  booktitle={Proceedings of The 30th International Conference on Machine Learning},
+  pages={1--9},
+  year={2013}
+}

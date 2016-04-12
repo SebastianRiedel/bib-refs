@@ -1,0 +1,7 @@
+@inproceedings{kumar2016optimal,
+	Author = {Kumar, Vikash and Todorov, Emanuel and Levine, Sergey},
+	Booktitle = {Proc. of the International Conference on Robotics and Automation (ICRA)},
+	Month = {May},
+	Title = {Optimal Control with Learned Local Models: Application to Dexterous Manipulation},
+	Year = {2016}
+}

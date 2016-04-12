@@ -1,0 +1,8 @@
+@inproceedings{margitus2015rdf,
+  title={RDF versus attributed graphs: The war for the best graph representation},
+  author={Margitus, Michael and Tauer, Gregory and Sudit, Moises},
+  booktitle={Information Fusion (Fusion), 2015 18th International Conference on},
+  pages={200--206},
+  year={2015},
+  organization={IEEE}
+}
