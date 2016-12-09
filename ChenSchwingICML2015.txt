@@ -1,0 +1,7 @@
+@inproceedings{ChenSchwingICML2015,
+  author = {L.-C. Chen$^\ast$ and A.~G. Schwing$^\ast$ and A.~L. Yuille and R. Urtasun},
+  title = {{Learning Deep Structured Models}},
+  booktitle = {Proc. ICML},
+  year = {2015},
+  note = {$^\ast$ equal contribution},
+}

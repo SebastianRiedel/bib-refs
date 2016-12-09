@@ -1,0 +1,8 @@
+@article{jiang2016inferring,
+  title={Inferring and monitoring invariants in robotic systems},
+  author={Jiang, Hengle and Elbaum, Sebastian and Detweiler, Carrick},
+  journal={Autonomous Robots},
+  pages={1--20},
+  year={2016},
+  publisher={Springer}
+}
