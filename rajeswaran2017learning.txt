@@ -1,0 +1,6 @@
+@article{rajeswaran2017learning,
+  title={Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations},
+  author={Rajeswaran, Aravind and Kumar, Vikash and Gupta, Abhishek and Schulman, John and Todorov, Emanuel and Levine, Sergey},
+  journal={arXiv preprint arXiv:1709.10087},
+  year={2017}
+}
