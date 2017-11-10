@@ -1,0 +1,10 @@
+@article{lazaro2012overlapping,
+  title={Overlapping mixtures of Gaussian processes for the data association problem},
+  author={L{\'a}zaro-Gredilla, Miguel and Van Vaerenbergh, Steven and Lawrence, Neil D},
+  journal={Pattern Recognition},
+  volume={45},
+  number={4},
+  pages={1386--1395},
+  year={2012},
+  publisher={Elsevier}
+}

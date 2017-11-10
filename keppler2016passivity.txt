@@ -1,0 +1,8 @@
+@inproceedings{keppler2016passivity,
+  title={A passivity-based approach for trajectory tracking and link-side damping of compliantly actuated robots},
+  author={Keppler, Manuel and Lakatos, Dominic and Ott, Christian and Albu-Sch{\"a}ffer, Alin},
+  booktitle={Robotics and Automation (ICRA), 2016 IEEE International Conference on},
+  pages={1079--1086},
+  year={2016},
+  organization={IEEE}
+}

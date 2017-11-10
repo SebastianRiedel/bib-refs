@@ -1,0 +1,10 @@
+@article{chowdhary2015bayesian,
+  title={Bayesian nonparametric adaptive control using gaussian processes},
+  author={Chowdhary, Girish and Kingravi, Hassan A and How, Jonathan P and Vela, Patricio A},
+  journal={IEEE transactions on neural networks and learning systems},
+  volume={26},
+  number={3},
+  pages={537--550},
+  year={2015},
+  publisher={IEEE}
+}

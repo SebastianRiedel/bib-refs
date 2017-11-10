@@ -1,0 +1,7 @@
+@article{grande2017online,
+  title={Online regression for data with changepoints using gaussian processes and reusable models},
+  author={Grande, Robert C and Walsh, Thomas J and Chowdhary, Girish and Ferguson, Sarah and How, Jonathan P},
+  journal={IEEE transactions on neural networks and learning systems},
+  year={2017},
+  publisher={IEEE}
+}

@@ -1,0 +1,5 @@
+@article{vijayakumar2005lwpr,
+  title={LWPR: A scalable method for incremental online learning in high dimensions},
+  author={Vijayakumar, Sethu and D'Souza, Aaron and Schaal, Stefan},
+  year={2005}
+}

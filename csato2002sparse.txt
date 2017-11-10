@@ -1,0 +1,10 @@
+@article{csato2002sparse,
+  title={Sparse on-line Gaussian processes},
+  author={Csat{\'o}, Lehel and Opper, Manfred},
+  journal={Neural computation},
+  volume={14},
+  number={3},
+  pages={641--668},
+  year={2002},
+  publisher={MIT Press}
+}
