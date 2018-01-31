@@ -1,8 +1,0 @@
-@inproceedings{koo2013gmm,
-  title={Gmm-based 3d object representation and robust tracking in unconstructed dynamic environments},
-  author={Koo, Seongyong and Lee, Dongheui and Kwon, Dong-Soo},
-  booktitle={Robotics and Automation (ICRA), 2013 IEEE International Conference on},
-  pages={1114--1121},
-  year={2013},
-  organization={IEEE}
-}

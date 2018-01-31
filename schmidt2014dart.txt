@@ -1,6 +1,0 @@
-@article{schmidt2014dart,
-  title={DART: Dense Articulated Real-Time Tracking},
-  author={Schmidt, Tanner and Newcombe, Richard and Fox, Dieter},
-  journal={Proceedings of Robotics: Science and Systems, Berkeley, USA},
-  year={2014}
-}

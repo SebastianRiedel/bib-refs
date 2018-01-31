@@ -1,8 +1,0 @@
-@inproceedings{eidenberger2009probabilistic,
-  title={Probabilistic occlusion estimation in cluttered environments for active perception planning},
-  author={Eidenberger, Robert and Zoellner, Raoul and Scharinger, Josef},
-  booktitle={Advanced Intelligent Mechatronics, 2009. AIM 2009. IEEE/ASME International Conference on},
-  pages={1248--1253},
-  year={2009},
-  organization={IEEE}
-}

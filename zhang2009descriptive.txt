@@ -1,8 +1,0 @@
-@inproceedings{zhang2009descriptive,
-  title={Descriptive visual words and visual phrases for image applications},
-  author={Zhang, Shiliang and Tian, Qi and Hua, Gang and Huang, Qingming and Li, Shipeng},
-  booktitle={Proceedings of the 17th ACM international conference on Multimedia},
-  pages={75--84},
-  year={2009},
-  organization={ACM}
-}

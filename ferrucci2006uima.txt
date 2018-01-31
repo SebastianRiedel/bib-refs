@@ -1,7 +1,0 @@
-@techreport{ferrucci2006uima,
-  author = {Ferrucci, David and Lally, Adam and Gruhl, Daniel and Epstein, Edward and Schor, Marshall and Murdock, J. William and Frenkiel, Andy and Brown, Eric W. and Hampp, Thomas and Doganta, Yurdaer and Welty, Christopher and Amini, Lisa and Kofman, Galina and Kozakov, Lev and Mass, Yosi},
-  title = {Towards an Interoperability Standard for Text and Multi-Modal Analytics},
-  howpublished = "\url{http://domino.research.ibm.com/library/cyberdig.nsf/papers/1898F3F640FEF47E8525723C00551250/$File/rc24122.pdf}",
-  year = {2006}, 
-  note = "[Online; accessed 15-January-2016]"
-}

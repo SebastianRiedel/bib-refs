@@ -1,6 +1,0 @@
-@inproceedings{perzylo2015toward,
-  title={Toward efficient robot teach-in and semantic process descriptions for small lot sizes},
-  author={Perzylo, Alexander and Somani, Nikhil and Profanter, Stefan and Rickert, Markus and Knoll, Alois},
-  booktitle={Robotics: Science and Systems (RSS), Workshop on Combining AI Reasoning and Cognitive Science with Robotics, Rome, Italy},
-  year={2015}
-}

@@ -1,8 +1,0 @@
-@article{kober2013reinforcement,
-  title={Reinforcement learning in robotics: A survey},
-  author={Kober, Jens and Bagnell, J Andrew and Peters, Jan},
-  journal={The International Journal of Robotics Research},
-  pages={0278364913495721},
-  year={2013},
-  publisher={SAGE Publications}
-}

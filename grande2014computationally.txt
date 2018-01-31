@@ -1,6 +1,0 @@
-@phdthesis{grande2014computationally,
-  title={Computationally efficient gaussian process changepoint detection and regression},
-  author={Grande, Robert Conlin},
-  year={2014},
-  school={Massachusetts Institute of Technology}
-}

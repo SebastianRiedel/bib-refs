@@ -1,8 +1,0 @@
-@inproceedings{jiang2013reducing,
-  title={Reducing failure rates of robotic systems though inferred invariants monitoring},
-  author={Jiang, Hengle and Elbaum, Sebastian and Detweiler, Carrick},
-  booktitle={Intelligent Robots and Systems (IROS), 2013 IEEE/RSJ International Conference on},
-  pages={1899--1906},
-  year={2013},
-  organization={IEEE}
-}

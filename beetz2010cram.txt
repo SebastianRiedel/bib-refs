@@ -1,8 +1,0 @@
-@inproceedings{beetz2010cram,
-  title={CRAM—A Cognitive Robot Abstract Machine for everyday manipulation in human environments},
-  author={Beetz, Michael and M{\"o}senlechner, Lorenz and Tenorth, Moritz},
-  booktitle={Intelligent Robots and Systems (IROS), 2010 IEEE/RSJ International Conference on},
-  pages={1012--1017},
-  year={2010},
-  organization={IEEE}
-}

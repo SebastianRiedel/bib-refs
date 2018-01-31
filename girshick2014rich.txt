@@ -1,7 +1,0 @@
-@InProceedings{girshick2014rich,
-author = {Girshick, Ross and Donahue, Jeff and Darrell, Trevor and Malik, Jitendra},
-title = {Rich Feature Hierarchies for Accurate Object Detection and Semantic Segmentation},
-booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2014}
-}

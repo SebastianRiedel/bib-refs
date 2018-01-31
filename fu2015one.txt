@@ -1,6 +1,0 @@
-@article{fu2015one,
-  title={One-Shot Learning of Manipulation Skills with Online Dynamics Adaptation and Neural Network Priors},
-  author={Fu, Justin and Levine, Sergey and Abbeel, Pieter},
-  journal={arXiv preprint arXiv:1509.06841},
-  year={2015}
-}

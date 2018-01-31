@@ -1,8 +1,0 @@
-@inproceedings{punjani2015deep,
-  title={Deep learning helicopter dynamics models},
-  author={Punjani, Ali and Abbeel, Pieter},
-  booktitle={Robotics and Automation (ICRA), 2015 IEEE International Conference on},
-  pages={3223--3230},
-  year={2015},
-  organization={IEEE}
-}

@@ -1,6 +1,0 @@
-@article{deisenroth2011learning,
-  title={Learning to control a low-cost manipulator using data-efficient reinforcement learning},
-  author={Deisenroth, Marc Peter and Rasmussen, Carl Edward and Fox, Dieter},
-  year={2011},
-  publisher={MIT Press}
-}

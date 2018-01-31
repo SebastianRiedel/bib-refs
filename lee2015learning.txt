@@ -1,8 +1,0 @@
-@inproceedings{lee2015learning,
-  title={Learning force-based manipulation of deformable objects from multiple demonstrations},
-  author={Lee, Alex X and Lu, Henry and Gupta, Abhishek and Levine, Sergey and Abbeel, Pieter},
-  booktitle={Robotics and Automation (ICRA), 2015 IEEE International Conference on},
-  pages={177--184},
-  year={2015},
-  organization={IEEE}
-}

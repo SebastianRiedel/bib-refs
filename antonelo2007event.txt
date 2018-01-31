@@ -1,8 +1,0 @@
-@incollection{antonelo2007event,
-  title={Event detection and localization in mobile robot navigation using reservoir computing},
-  author={Antonelo, Eric A and Schrauwen, Benjamin and Dutoit, Xavier and Stroobandt, Dirk and Nuttin, Marnix},
-  booktitle={Artificial Neural Networks--ICANN 2007},
-  pages={660--669},
-  year={2007},
-  publisher={Springer}
-}

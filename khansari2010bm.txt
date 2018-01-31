@@ -1,8 +1,0 @@
-@inproceedings{khansari2010bm,
-  title={BM: An iterative algorithm to learn stable non-linear dynamical systems with gaussian mixture models},
-  author={Khansari-Zadeh, S Mohammad and Billard, Aude},
-  booktitle={Robotics and Automation (ICRA), 2010 IEEE International Conference on},
-  pages={2381--2388},
-  year={2010},
-  organization={IEEE}
-}

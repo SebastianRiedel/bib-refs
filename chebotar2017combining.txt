@@ -1,6 +1,0 @@
-@article{chebotar2017combining,
-  title={Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning},
-  author={Chebotar, Yevgen and Hausman, Karol and Zhang, Marvin and Sukhatme, Gaurav and Schaal, Stefan and Levine, Sergey},
-  journal={arXiv preprint arXiv:1703.03078},
-  year={2017}
-}

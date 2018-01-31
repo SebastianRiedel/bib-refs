@@ -1,8 +1,0 @@
-@inproceedings{ince2009ego,
-  title={Ego noise suppression of a robot using template subtraction},
-  author={Ince, G{\"o}khan and Nakadai, Kazuhiro and Rodemann, Tobias and Hasegawa, Yuji and Tsujino, Hiroshi and Imura, Jun-ichi},
-  booktitle={Intelligent Robots and Systems, 2009. IROS 2009. IEEE/RSJ International Conference on},
-  pages={199--204},
-  year={2009},
-  organization={IEEE}
-}

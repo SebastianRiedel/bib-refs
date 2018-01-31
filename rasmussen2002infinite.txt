@@ -1,7 +1,0 @@
-@inproceedings{rasmussen2002infinite,
-  title={Infinite mixtures of Gaussian process experts},
-  author={Rasmussen, Carl E and Ghahramani, Zoubin},
-  booktitle={Advances in neural information processing systems},
-  pages={881--888},
-  year={2002}
-}

@@ -1,8 +1,0 @@
-@inproceedings{levine2015learning,
-  title={Learning contact-rich manipulation skills with guided policy search},
-  author={Levine, Sergey and Wagener, Nolan and Abbeel, Pieter},
-  booktitle={Robotics and Automation (ICRA), 2015 IEEE International Conference on},
-  pages={156--163},
-  year={2015},
-  organization={IEEE}
-}

@@ -1,8 +1,0 @@
-@inproceedings{wu2012semi,
-  title={Semi-parametric Gaussian process for robot system identification},
-  author={Wu, Tingfan and Movellan, Javier},
-  booktitle={Intelligent Robots and Systems (IROS), 2012 IEEE/RSJ International Conference on},
-  pages={725--731},
-  year={2012},
-  organization={IEEE}
-}

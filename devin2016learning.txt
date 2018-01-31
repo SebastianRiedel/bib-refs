@@ -1,6 +1,0 @@
-@article{devin2016learning,
-  title={Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer},
-  author={Devin, Coline and Gupta, Abhishek and Darrell, Trevor and Abbeel, Pieter and Levine, Sergey},
-  journal={arXiv preprint arXiv:1609.07088},
-  year={2016}
-}

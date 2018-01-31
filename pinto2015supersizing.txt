@@ -1,6 +1,0 @@
-@article{pinto2015supersizing,
-  title={Supersizing Self-supervision: Learning to Grasp from 50K Tries and 700 Robot Hours},
-  author={Pinto, Lerrel and Gupta, Abhinav},
-  journal={arXiv preprint arXiv:1509.06825},
-  year={2015}
-}

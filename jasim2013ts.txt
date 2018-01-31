@@ -1,8 +1,0 @@
-@inproceedings{jasim2013ts,
-  title={TS fuzzy contact state recognition for compliant motion robotic tasks using gravitational search-based clustering algorithm},
-  author={Jasim, Ibrahim F and Plapper, Peter W},
-  booktitle={Fuzzy Systems (FUZZ), 2013 IEEE International Conference on},
-  pages={1--8},
-  year={2013},
-  organization={IEEE}
-}

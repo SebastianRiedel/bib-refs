@@ -1,7 +1,0 @@
-@inproceedings{niemueller2013life,
-  title={Life-long learning perception using cloud database technology},
-  author={Niemueller, Tim and Schiffer, Stefan and Lakemeyer, Gerhard and Lakani, Safoura Rezapour},
-  booktitle={Proceedings of the 2013 IROS Workshop on Cloud Robotics},
-  pages={5--33},
-  year={2013}
-}

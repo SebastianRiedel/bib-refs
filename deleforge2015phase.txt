@@ -1,6 +1,0 @@
-@article{deleforge2015phase,
-  title={Phase-Optimized K-SVD for Signal Extraction from Underdetermined Multichannel Sparse Mixtures},
-  author={Deleforge, Antoine and Kellermann, Walter},
-  journal={Acoustics, Speech and Signal Processing (ICASSP), IEEE International Conference on},
-  year={2015}
-}

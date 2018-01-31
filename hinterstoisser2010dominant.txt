@@ -1,8 +1,0 @@
-@inproceedings{hinterstoisser2010dominant,
-  title={Dominant orientation templates for real-time detection of texture-less objects},
-  author={Hinterstoisser, Stefan and Lepetit, Vincent and Ilic, Slobodan and Fua, Pascal and Navab, Nassir},
-  booktitle={Computer Vision and Pattern Recognition (CVPR), 2010 IEEE Conference on},
-  pages={2257--2264},
-  year={2010},
-  organization={IEEE}
-}

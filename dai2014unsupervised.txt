@@ -1,7 +1,0 @@
-@inproceedings{dai2014unsupervised,
-  title={Unsupervised learning of dictionaries of hierarchical compositional models},
-  author={Dai, Jifeng and Hong, Yi and Hu, Wenze and Zhu, Song-Chun and Wu, Ying},
-  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
-  pages={2505--2512},
-  year={2014}
-}
